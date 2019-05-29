@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\excel.o
+./debug\pushbtn.o
+./debug\workthread.o
+./debug\sortutils.o
+./debug\mywindow.o
+./debug\moc_workthread.o
+./debug\moc_mainwindow.o
+./debug\moc_mywindow.o
+);

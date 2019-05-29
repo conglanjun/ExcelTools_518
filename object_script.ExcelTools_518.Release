@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\excel.o
+./release\pushbtn.o
+./release\workthread.o
+./release\sortutils.o
+./release\mywindow.o
+./release\moc_workthread.o
+./release\moc_mainwindow.o
+./release\moc_mywindow.o
+);
